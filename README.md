@@ -9,7 +9,7 @@ Specifically, I have skills and experience in the following areas:
   * Robotic route planning and navigation
   * Kinetic and kinematic analysis
   * Motion control
-* Autonomous localization and state estimation using Bayesian and Monte Carlo techniques (including Kalman, Extended Kalman, and Particle Filters).
+* Autonomous localization and state estimation using Bayesian and Monte Carlo techniques (including standard, extended, and unscented Kalman Filters, and Particle Filters).
 * Software development using C++, Python, ROS, and Matlab on Windows and Linux Ubuntu
 * Version control with Git through SourceTree, VS Code, and GitHub Desktop
 * Object recognition and classification using Machine Learning, Artificial Intelligence, and Computer Vision
