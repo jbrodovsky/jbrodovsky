@@ -1,0 +1,6 @@
+This is just a simple list of progams I use on a new machine. This is meant to be both a work machine setup and a personal machine setup (so no Steam installation)
+
+Visual Studio Code: https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
+Google Chrome: https://www.google.com/chrome/
+MS Edge: https://www.microsoft.com/en-us/edge
+vcpkg
